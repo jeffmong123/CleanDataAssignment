@@ -10,7 +10,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The goal is to prepare tidy data that can be used for later analysis based on the above project raw data.
 
-R script called run_analysis.R performs the following data analysis:
+R script called run_analysis.R performs the following data analysis.
 1.Merge the training and the test sets to create one data set.
 2.Extract only the measurements on the mean and standard deviation for each measurement. 
 3.Use descriptive activity names to name the activities in the data set
@@ -22,7 +22,7 @@ For detailed data analysis, please refer to the files README.md and run_analysis
 
 ##Variables
 ###1.Subject
-type: numeric
+type: numeric.
 description: an identifier of a group of 30 volunteers within an age bracket of 19-48 years who carried out the experiment. Its range is from 1 to 30.
 
 ###2.Activity
